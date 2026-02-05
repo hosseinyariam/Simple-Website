@@ -7,8 +7,8 @@ Designed By Hossein Yari.
 Displays a online magazine demo. Implemented here using the Html,Css,Bootstrap,PHP and JS.
 
 # Demo
-https://hosseinyariam.ir
+coming soon
 
 # screenshot
 
-<img src="https://hosseinyariam.ir/images/screenshot.webp" alt="مجله اینترنتی همیار کمپینگ">
+<img src="https://cdn.imgurl.ir/uploads/l305507_hamyarcamping.png" alt="مجله اینترنتی همیار کمپینگ">
